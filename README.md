@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Raghav 
+- 🤔 I'm actually just an ameture in Programming.
+- 👀 I’m interested in learning new things everday.
+- 🌱 I’m currently learning c++ and 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me crowm.rg7244@gmial.com
