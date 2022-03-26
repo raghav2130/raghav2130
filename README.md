@@ -3,7 +3,7 @@
 
 I'm a Programmer cum Tech Enthusiast 
 
-C++ | Flutter | Illustrator | Music Lover | Gamer | Sophomore | want to be more
+C++ | Illustrator | Music Lover | Gamer | Sophomore | want to be more
 😆
 
 Most Importantly Self learner.
@@ -14,7 +14,7 @@ Most Importantly Self learner.
 
 👩‍💻 I'm currently working on console game projects
 
-🧠 I'm currently learning C++ and Flutter.
+🧠 I'm currently learning C++
 
 👯‍♀️ I'm looking to collaborate on Front-End Development
 
@@ -31,7 +31,7 @@ by Dhruv
 
 
 ## 🛠 Skills
-Adobe: Photoshop, Illustrator. CPP, HTML, CSS, Flutter.
+Adobe: Photoshop, Illustrator. CPP, HTML, CSS.
 
 
 ## Feedback
