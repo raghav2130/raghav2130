@@ -10,7 +10,7 @@ Most Importantly Self learner.
 
 <!-- <img src="https://beautifulpixels.com/wp-content/uploads/2017/08/tr12082017-6.gif" width =400 align="right" /> -->
  
-## 😌 Usual Stuff
+##  Usual Part
 
 - 👩‍💻 I'm currently working on console game projects.
 
