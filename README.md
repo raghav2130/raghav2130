@@ -1,7 +1,7 @@
 
 # Hey, I'm Raghav! 👋
 
-I'm a Programmer cum Tech Enthusiast 
+I'm just another regular code freak.
 
 C++ | Illustrator | Music Lover | Gamer | Sophomore | want to be more
 😆
@@ -16,9 +16,8 @@ Most Importantly Self learner.
 
 - 🧠 I'm currently learning CPP and Pyhton.
 
-- 👯‍♀️ I'm looking to collaborate on Flutter Applications.
+- 👯‍♀️ I'm looking to collaborate on Automation.
 
-- 💬 Ask me about AI and Tech.
 <!-- [LinkedIn](https://www.linkedin.com/in/raghav2130/) 
 or [EMAIL](crown.rg7244@gmail.com) ;
  -->
@@ -26,7 +25,7 @@ or [EMAIL](crown.rg7244@gmail.com) ;
 - 🎶 Fav song 
 [Double Take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf?si=e0f3b11ca9dd4ac3)
 
-- ⚡️ Fun Fact : Time hates me.
+- ⚡️ Fun Fact - Time hates me.
 
 
 ### 🛠 Tools and Languages
