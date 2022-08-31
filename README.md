@@ -3,8 +3,7 @@
 
 I'm just another regular code freak.
 
-C++ | Illustrator | Music Lover | Gamer | Sophomore | want to be more
-😆
+C++ | Illustrator | WebDev | Music Lover | Gamer
 
 Most Importantly Self learner.
 
@@ -12,11 +11,11 @@ Most Importantly Self learner.
  
 ##  👨‍💻 Usual Part
 
-- 👩‍💻 I'm currently working on console game projects.
+- 👩‍💻 I'm currently working on some css projects.
 
-- 🧠 I'm currently learning CPP and Pyhton.
+- 🧠 I'm a prefessional bug designer and a emotional fool.
 
-- 👯‍♀️ I'm looking to collaborate on Automation.
+- 👯‍♀️ I'm looking to collaborate on Web Dev projects.
 
 <!-- [LinkedIn](https://www.linkedin.com/in/raghav2130/) 
 or [EMAIL](crown.rg7244@gmail.com) ;
