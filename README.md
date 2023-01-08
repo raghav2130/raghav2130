@@ -6,8 +6,8 @@ I'm just another regular terminal freak.
 ### 🛠 Tools and Languages
 
 C | C++ | Python | JS | Linux
-Illustrator | Photoshop
 
+Illustrator | Photoshop
 
 Music Lover | Gamer
 
