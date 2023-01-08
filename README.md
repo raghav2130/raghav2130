@@ -1,21 +1,27 @@
 
 # Hey, I'm Raghav! 👋
 
-I'm just another regular code freak.
+I'm just another regular terminal freak.
 
-C++ | Illustrator | WebDev | Music Lover | Gamer
+### 🛠 Tools and Languages
 
-Most Importantly Self learner.
+C | C++ | Python | JS | Linux
+Illustrator | Photoshop
+
+
+Music Lover | Gamer
+
+Self Taught.
 
 <!-- <img src="https://beautifulpixels.com/wp-content/uploads/2017/08/tr12082017-6.gif" width =400 align="right" /> -->
  
-##  👨‍💻 Usual Part
+<!-- ##  👨‍💻 Usual Part -->
 
-- 👩‍💻 I'm currently working on some css projects.
+<!-- - 👩‍💻 I'm currently working on some css projects. -->
 
-- 🧠 I'm a prefessional bug designer and a emotional fool.
+- 🧠 I'm a professional bug designer and a emotional fool.
 
-- 👯‍♀️ I'm looking to collaborate on Web Dev projects.
+<!-- - 👯‍♀️ I'm looking to collaborate on Web Dev projects. -->
 
 <!-- [LinkedIn](https://www.linkedin.com/in/raghav2130/) 
 or [EMAIL](crown.rg7244@gmail.com) ;
@@ -26,9 +32,6 @@ or [EMAIL](crown.rg7244@gmail.com) ;
 
 - ⚡️ Fun Fact - Time hates me.
 
-
-### 🛠 Tools and Languages
-Adobe: Photoshop, Illustrator. CPP , HTML CSS. 
 
 ### 🔗 Links
 
