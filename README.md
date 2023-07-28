@@ -1,25 +1,9 @@
 
-# Hey, I'm Raghav! 👋
+# Hey, I'm Raghav 👋
 
 I'm just another regular terminal freak.
 
-### 🛠 Tools and Languages
-
-C | C++ | Python | JS | Linux
-
-Illustrator | Photoshop
-
-Music Lover | Gamer
-
-Self Taught.
-
-<!-- <img src="https://beautifulpixels.com/wp-content/uploads/2017/08/tr12082017-6.gif" width =400 align="right" /> -->
- 
-<!-- ##  👨‍💻 Usual Part -->
-
-<!-- - 👩‍💻 I'm currently working on some css projects. -->
-
-- 🧠 I'm a professional bug designer and a emotional fool.
+-  I'm a professional bug designer and an emotional fool.
 
 <!-- - 👯‍♀️ I'm looking to collaborate on Web Dev projects. -->
 
@@ -29,9 +13,6 @@ or [EMAIL](crown.rg7244@gmail.com) ;
  
 - 🎶 Fav song 
 [Double Take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf?si=e0f3b11ca9dd4ac3)
-
-- ⚡️ Fun Fact - Time hates me.
-
 
 ### 🔗 Links
 
