@@ -3,7 +3,7 @@
 
 I'm just another regular terminal freak.
 
--  I'm a professional bug designer and an emotional fool.
+-  I'm a professional bug designer.
 
 <!-- - 👯‍♀️ I'm looking to collaborate on Web Dev projects. -->
 
